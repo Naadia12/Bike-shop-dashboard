@@ -11,7 +11,7 @@ DAX Calculations: Used for custom measures and aggregations.
  Technologies Used
 Microsoft Power BI – For data visualisation and interactive reporting.
 DAX (Data Analysis Expressions) – For creating calculated columns and measures.
-Data Source – (Specify whether it's an Excel file, SQL database, API, etc.)
+Data Source – Excel file, SQL database, API.
 
 Insights
 Higher revenue and earnings occur during midday and early evening hours.
