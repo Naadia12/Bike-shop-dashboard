@@ -1,55 +1,48 @@
+ TomSz’s Bike Shop Power BI Sales & Customer Insights Dashboard
 
-Tomsz’s Bike Shop is facing variability in sales across different time periods and has limited understanding of its customer base. Key business questions include:
+Project Overview  
+TomSz’s Bike Shop is experiencing inconsistent sales across time periods and lacks a clear understanding of its customer base. This dashboard project aims to answer:
 
-When should the shop increase staffing and stock to meet peak demand?
+How can TomSz’s Bike Shop improve staffing, customer targeting, and seasonal performance based on historical sales and rider data?
 
-How do seasonal changes affect sales performance?
+The objective is to generate actionable insights to support better scheduling, marketing efforts, and customer engagement strategies.
 
-Is the business overly reliant on one customer type, limiting growth?
+ Key Business Questions  
+- When should the shop increase staffing and stock to meet peak demand?
+- How do seasonal changes affect sales performance?
+- Is the business overly reliant on one customer type, limiting growth?
 
-The goal of this analysis is to uncover actionable insights to drive customer engagement, operational efficiency, and sales optimisation.
+ Dashboard Features  
+- Hourly Sales Table. Identifies peak hours by showing revenue and rider volume by time of day  
+- Monthly Trend Line Chart. Reveals long-term trends in revenue and rider activity  
+- Seasonal Revenue Bar Chart. Highlights performance shifts across seasons  
+- Rider Demographic Donut Chart. Displays customer type distribution  
 
-Key Business Insights
-Midday and early evening hours show the highest sales and rider volume, pointing to key revenue windows.
+Key Insights  
+- Peak sales occur midday and early evening, suggesting ideal times to boost staffing and inventory  
+- Sales drop significantly during Season 1 (likely winter), while Season 3 (summer) performs best  
+- Over 81% of customers belong to a single rider group, revealing a limited customer mix  
 
-Seasonal trends indicate a clear drop in performance during Season 1 (likely winter), while Season 3 (summer) yields the highest average revenue.
 
-Rider demographic data shows that over 81% of customers belong to a single group, highlighting a lack of diversity in customer engagement.
+Business Recommendations  
+1. Optimise Staffing During Peak Hours
+   → Increase staff and stock availability from 12 PM to 8 PM  
 
- Technologies Used
-Microsoft Power BI – For interactive data visualisation and reporting
+2. Launch Seasonal Promotions in Low-Performing Periods
+   → Offer winter-specific campaigns and discounts to stabilize revenue  
 
-DAX (Data Analysis Expressions) – Used for calculated columns and custom measures
+3. Diversify Customer Segments
+   → Use targeted marketing to reach underrepresented rider types (e.g. families, students)
 
-Data Source – Excel file with supplementary SQL/API potential
+Tools & Technologies  
+- Power BI – for dashboard creation  
+- Excel – used as the data source  
+- DAX – for calculated measures and insights  
 
-Dashboard Features
-Hourly Sales Table – Displays revenue and rider count by hour across a week to identify demand patterns
+ What I Learned  
+- Building real-world dashboards focused on business impact  
+- Using DAX to create calculated fields for deeper analysis  
+- Telling a clear story through visuals to support operational decision-making
 
-Monthly Trend Chart – Visualises revenue, profit, and rider activity across two years
 
-Seasonal Revenue Bar Chart – Highlights average revenue by season to assess business cycle trends
-
-Rider Demographic Donut Chart – Provides customer distribution insights
-
-Recommendations for Business Improvement
-1. Optimise Staffing and Stock Around Peak Hours
-Insight: Midday and evening sales spikes show higher customer activity.
-Action: Increase staffing and stock availability during these hours to improve service efficiency and capture more revenue.
-
-2. Introduce Seasonal Marketing Campaigns
-Insight: Performance drops during low-revenue seasons like winter.
-Action: Launch targeted promotions and bundled offers during off-peak periods to maintain sales volume and attract footfall.
-
-3. Diversify Customer Base Through Targeted Outreach
-Insight: 81.17% of riders fall into one customer group.
-Action: Explore new segments via targeted campaigns (e.g. students, families, commuters) and gather richer demographic data for better segmentation.
-
- How to Use the Dashboard
-Open Power BI Desktop
-
-Connect to the dataset (Excel, SQL, or API as needed)
-
-Load the .pbix file
-
-Use filters and slicers to explore time-based trends, seasonal shifts, and customer profile
+This project demonstrates my ability to deliver business ready analysis using Power BI.
