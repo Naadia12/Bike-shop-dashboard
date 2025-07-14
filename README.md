@@ -1,4 +1,4 @@
-Business Challenge
+
 Tomsz’s Bike Shop is facing variability in sales across different time periods and has limited understanding of its customer base. Key business questions include:
 
 When should the shop increase staffing and stock to meet peak demand?
